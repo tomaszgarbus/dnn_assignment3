@@ -1,4 +1,3 @@
-# Input format for network
+# DNN Assignment 3
 
-Opening parentheses are denoted with 1, closing parentheses are denoted with -1.
-Paddings (if any) should be filled with 0 and appear *after* the parentheses.
+Assignment for Deep Learning course @MIM UW. The goal of this task was to implement RNN in two flavours (vanilla & LSTM) for a simple bracket expression analysis.
